@@ -1,0 +1,4 @@
+{"EventID": 1, "User": "NT AUTHORITY\\SYSTEM", "Image": "C:\\Windows\\System32\\svchost.exe", "CommandLine": "svchost.exe -k netsvcs"}
+{"EventID": 1, "User": "DOMAIN\\jdoe", "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -NoProfile -Command Get-Process"}
+{"EventID": 1, "User": "DOMAIN\\jsmith", "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File C:\\Temp\\malicious.ps1"}
+{"EventID": 4624, "User": "DOMAIN\\jdoe", "Image": "-", "CommandLine": "-"}
